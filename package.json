@@ -1,0 +1,30 @@
+{
+  "name": "webcam-s3",
+  "version": "1.0.0",
+  "description": "This package helps to send images from webcamURLs to an Amazon S3 Bucket of your choice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarvargas00/webcam-s3.git"
+  },
+  "keywords": [
+    "webcam",
+    "s3",
+    "amazon",
+    "aws",
+    "criarme"
+  ],
+  "author": "Cesar Vargas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cesarvargas00/webcam-s3/issues"
+  },
+  "homepage": "https://github.com/cesarvargas00/webcam-s3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.373.0",
+    "node-fetch": "^2.3.0"
+  }
+}
