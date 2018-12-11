@@ -3,7 +3,8 @@ This package helps to send images from webcamURLs to an Amazon S3 Bucket of your
 
 # usage
 
-```require('webcam-s3')
+```javascript
+require('webcam-s3')
 const config = {
   accessKeyId: 'your-access-key-id-here',
   secretAccessKey: 'your-secret-access-key-here',
