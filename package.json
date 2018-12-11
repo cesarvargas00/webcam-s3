@@ -1,6 +1,6 @@
 {
   "name": "webcam-s3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package helps to send images from webcamURLs to an Amazon S3 Bucket of your choice.",
   "main": "index.js",
   "scripts": {
